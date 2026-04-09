@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Dmitry Baimakov banner" width="100%" />
+  <img src="profile-banner.svg" alt="Dmitry Baimakov banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Dmitry 👋</h1>
@@ -20,7 +20,7 @@ I’m a cybersecurity analyst with a strong interest in both **breaking systems 
 What I enjoy most is connecting the full chain: identifying risk, validating impact, understanding logs and behavior, and then turning that into cleaner architecture, stronger authentication, and better hardening decisions.
 
 <p align="center">
-  <img src="assets/expertise-grid.svg" alt="Expertise grid" width="100%" />
+  <img src="expertise-grid.svg" alt="Expertise grid" width="100%" />
 </p>
 
 ## What I Work On
