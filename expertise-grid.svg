@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Expertise grid</title>
+  <desc id="desc">Four-card grid summarizing application security, secure backend engineering, Android and data, and observability skills.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8FBFF"/>
+      <stop offset="100%" stop-color="#EEF5FF"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F5FAFF"/>
+    </linearGradient>
+    <filter id="shadow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#0A2A6A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="560" rx="28" fill="url(#bg2)"/>
+  <text x="64" y="86" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="34" font-weight="800" fill="#0B2A5E">Core Focus Areas</text>
+  <text x="64" y="122" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" fill="#4A5E7C">Security-first engineering with a practical, evidence-driven mindset.</text>
+
+  <g filter="url(#shadow2)" font-family="Segoe UI, Inter, Arial, sans-serif">
+    <g transform="translate(64,160)">
+      <rect width="510" height="150" rx="22" fill="url(#card)" stroke="#D8E7FF"/>
+      <circle cx="54" cy="48" r="24" fill="#DCEBFF"/>
+      <path d="M42 48 l10 10 18 -18" fill="none" stroke="#0B57D0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="98" y="52" font-size="26" font-weight="800" fill="#0B2A5E">Application Security</text>
+      <text x="32" y="96" font-size="18" fill="#334E75">DAST, WAF workflows, vulnerability validation,</text>
+      <text x="32" y="124" font-size="18" fill="#334E75">hardening guidance, and secure testing labs.</text>
+    </g>
+
+    <g transform="translate(626,160)">
+      <rect width="510" height="150" rx="22" fill="url(#card)" stroke="#D8E7FF"/>
+      <circle cx="54" cy="48" r="24" fill="#DCEBFF"/>
+      <rect x="39" y="35" width="30" height="26" rx="6" fill="none" stroke="#0B57D0" stroke-width="4"/>
+      <path d="M47 70 h14" stroke="#0B57D0" stroke-width="4" stroke-linecap="round"/>
+      <text x="98" y="52" font-size="26" font-weight="800" fill="#0B2A5E">Secure Backend Engineering</text>
+      <text x="32" y="96" font-size="18" fill="#334E75">Java, Spring Boot, JWT / OAuth-inspired auth,</text>
+      <text x="32" y="124" font-size="18" fill="#334E75">REST APIs, Docker, and MySQL-backed services.</text>
+    </g>
+
+    <g transform="translate(64,344)">
+      <rect width="510" height="150" rx="22" fill="url(#card)" stroke="#D8E7FF"/>
+      <circle cx="54" cy="48" r="24" fill="#DCEBFF"/>
+      <rect x="43" y="33" width="22" height="34" rx="5" fill="none" stroke="#0B57D0" stroke-width="4"/>
+      <circle cx="54" cy="60" r="2.8" fill="#0B57D0"/>
+      <text x="98" y="52" font-size="26" font-weight="800" fill="#0B2A5E">Android &amp; Data</text>
+      <text x="32" y="96" font-size="18" fill="#334E75">Kotlin / Android apps, local persistence, secure</text>
+      <text x="32" y="124" font-size="18" fill="#334E75">sessions, and database-centered application design.</text>
+    </g>
+
+    <g transform="translate(626,344)">
+      <rect width="510" height="150" rx="22" fill="url(#card)" stroke="#D8E7FF"/>
+      <circle cx="54" cy="48" r="24" fill="#DCEBFF"/>
+      <path d="M38 58 L46 48 L55 56 L70 38" fill="none" stroke="#0B57D0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="98" y="52" font-size="26" font-weight="800" fill="#0B2A5E">Observability &amp; Detection</text>
+      <text x="32" y="96" font-size="18" fill="#334E75">ELK, log analysis, Wireshark, Bash automation,</text>
+      <text x="32" y="124" font-size="18" fill="#334E75">and telemetry that supports triage and investigation.</text>
+    </g>
+  </g>
+</svg>
