@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Dmitry 👋</h1>
 <p align="center">
-  Cybersecurity Analyst • Application Security • Secure Backend Engineering • Android Development
+  Cybersecurity Analyst • Application Security • Secure Backend Engineering • Android Development • Full-Stack Application Development 
 </p>
 
 <p align="center">
